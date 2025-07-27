@@ -1,7 +1,7 @@
 # Project 01 – Blink LED
 
 ## 🔍 Description
-This basic project turns an LED on and off repeatedly using the Arduino Uno’s digital output. It's the classic "Hello, World!" of embedded systems.
+This basic project turns an LED on and off repeatedly using the Elegoo Mega’s digital output. It's the classic "Hello, World!" of embedded systems.
 
 ## 🎯 Objectives / Concepts Learned
 - How to use `pinMode()` and `digitalWrite()`
@@ -10,7 +10,7 @@ This basic project turns an LED on and off repeatedly using the Arduino Uno’s 
 - Running your first Arduino sketch
 
 ## 🛠️ Hardware Used
-- Arduino Uno R3 (Elegoo)
+- Elegoo Mega 
 - Breadboard
 - 1x LED (any color)
 - 220Ω resistor
